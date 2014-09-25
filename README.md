@@ -1,6 +1,6 @@
 ---
 languages: html, css
-tags: 
-resources: 
+tags: git, todo
+resources: 1
 ---
 # Git Merge Conflicts
